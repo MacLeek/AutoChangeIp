@@ -1,2 +1,3 @@
 AutoChangeIp
 ============
+It only works in my occasion...auto change ip configuration between company and home...
